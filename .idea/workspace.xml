@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="39a47884-7c7f-49a1-9020-a4aa24f2f919" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageOptionsProvider">
+    <option name="myAddOrReplace" value="0" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="231" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HowAnArrayWorks" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1RYgkPg1MLSUsNsO7CJmUR43qJq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hello World" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="list.linked" />
+      <recent name="set" />
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.LinkedSimpleListTest.testAdd">
+    <configuration name="ArraySimpleListTest.indexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HowAnArrayWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="list.array" />
+      <option name="MAIN_CLASS_NAME" value="list.array.ArraySimpleListTest" />
+      <option name="METHOD_NAME" value="indexOf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedSimpleListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HowAnArrayWorks" />
+      <option name="PACKAGE_NAME" value="linked" />
+      <option name="MAIN_CLASS_NAME" value="list.linked.LinkedSimpleListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedSimpleListTest.addMany" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HowAnArrayWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.linked.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="list.linked" />
+      <option name="MAIN_CLASS_NAME" value="list.linked.LinkedSimpleListTest" />
+      <option name="METHOD_NAME" value="addMany" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedSimpleListTest.indexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HowAnArrayWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.linked.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="list.linked" />
+      <option name="MAIN_CLASS_NAME" value="list.linked.LinkedSimpleListTest" />
+      <option name="METHOD_NAME" value="indexOf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedSimpleListTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HowAnArrayWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.linked.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="list.linked" />
+      <option name="MAIN_CLASS_NAME" value="list.linked.LinkedSimpleListTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LinkedSimpleListTest.testAdd" />
+        <item itemvalue="JUnit.LinkedSimpleListTest.indexOf" />
+        <item itemvalue="JUnit.LinkedSimpleListTest.addMany" />
+        <item itemvalue="JUnit.ArraySimpleListTest.indexOf" />
+        <item itemvalue="JUnit.LinkedSimpleListTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39a47884-7c7f-49a1-9020-a4aa24f2f919" name="Default Changelist" comment="" />
+      <created>1569849585697</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569849585697</updated>
+      <workItem from="1569849588942" duration="296000" />
+      <workItem from="1569863728435" duration="260000" />
+      <workItem from="1569921896778" duration="14250000" />
+      <workItem from="1569938168339" duration="929000" />
+      <workItem from="1569994571460" duration="3844000" />
+      <workItem from="1570010253716" duration="14828000" />
+      <workItem from="1570114310057" duration="2553000" />
+      <workItem from="1570126582097" duration="1974000" />
+      <workItem from="1570181074559" duration="1408000" />
+      <workItem from="1570604222521" duration="19603000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HowAnArrayWorks$LinkedSimpleListTest_removeFirstElement.ic" NAME="LinkedSimpleListTest.removeFirstElement Coverage Results" MODIFIED="1570023915259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>list.linked.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HowAnArrayWorks$LinkedSimpleListTest_indexOf.ic" NAME="LinkedSimpleListTest.indexOf Coverage Results" MODIFIED="1570623535966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>list.linked.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HowAnArrayWorks$ItemArrayTest_checkoutofBounds.ic" NAME="ItemArrayTest.checkoutofBounds Coverage Results" MODIFIED="1569933505858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/HowAnArrayWorks$ItemArrayTest_addMany.ic" NAME="ItemArrayTest.addMany Coverage Results" MODIFIED="1569933134796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/HowAnArrayWorks$ItemArrayTest.ic" NAME="ItemArrayTest Coverage Results" MODIFIED="1569933517327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
