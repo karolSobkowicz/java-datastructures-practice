@@ -2,13 +2,11 @@ package list.array;
 
 import list.SimpleList;
 
+/**
+ * Created by Karol on 01/10/2019
+ * Working array class with grow capability.
+ */
 public class ArraySimpleList<T> implements SimpleList<T> {
-
-
-    /**
-     * Created by Karol on 01/10/2019
-     * To create a working array class with accessible methods.
-     */
 
     private final int INITIAL_SIZE = 1000;
     private final int INCREMENT = 10; // times size

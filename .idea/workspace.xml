@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39a47884-7c7f-49a1-9020-a4aa24f2f919" name="Default Changelist" comment="" />
+    <list default="true" id="39a47884-7c7f-49a1-9020-a4aa24f2f919" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/array/ArraySimpleList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/array/ArraySimpleList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/set/SimpleSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set/SimpleSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/set/SimpleSetTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/set/SimpleSetTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +20,7 @@
     <option name="myAddOrReplace" value="0" />
   </component>
   <component name="CoverageViewManager">
-    <option name="myElementSize" value="231" />
+    <option name="myElementSize" value="234" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="HowAnArrayWorks" />
@@ -31,6 +36,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -49,7 +55,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hello World" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,6 +66,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -70,10 +77,10 @@
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="" />
     </key>
-    <key name="CreateTestDialog.Recents.Supers">
+    <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
+    <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
   </component>
@@ -89,75 +96,81 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LinkedSimpleListTest.testAdd">
-    <configuration name="ArraySimpleListTest.indexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SimpleSetTest">
+    <configuration name="SimpleSetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HowAnArrayWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.array.*" />
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="list.array" />
-      <option name="MAIN_CLASS_NAME" value="list.array.ArraySimpleListTest" />
-      <option name="METHOD_NAME" value="indexOf" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedSimpleListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="HowAnArrayWorks" />
-      <option name="PACKAGE_NAME" value="linked" />
-      <option name="MAIN_CLASS_NAME" value="list.linked.LinkedSimpleListTest" />
+      <option name="PACKAGE_NAME" value="set" />
+      <option name="MAIN_CLASS_NAME" value="set.SimpleSetTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedSimpleListTest.addMany" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleSetTest.checkUnique" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HowAnArrayWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.linked.*" />
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="list.linked" />
-      <option name="MAIN_CLASS_NAME" value="list.linked.LinkedSimpleListTest" />
-      <option name="METHOD_NAME" value="addMany" />
+      <option name="PACKAGE_NAME" value="set" />
+      <option name="MAIN_CLASS_NAME" value="set.SimpleSetTest" />
+      <option name="METHOD_NAME" value="checkUnique" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedSimpleListTest.indexOf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleSetTest.indexOf (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HowAnArrayWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.linked.*" />
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="list.linked" />
-      <option name="MAIN_CLASS_NAME" value="list.linked.LinkedSimpleListTest" />
+      <option name="PACKAGE_NAME" value="set" />
+      <option name="MAIN_CLASS_NAME" value="set.SimpleSetTest" />
       <option name="METHOD_NAME" value="indexOf" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedSimpleListTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SimpleSetTest.remove (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="HowAnArrayWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="list.linked.*" />
+          <option name="PATTERN" value="set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="list.linked" />
-      <option name="MAIN_CLASS_NAME" value="list.linked.LinkedSimpleListTest" />
-      <option name="METHOD_NAME" value="testAdd" />
+      <option name="PACKAGE_NAME" value="set" />
+      <option name="MAIN_CLASS_NAME" value="set.SimpleSetTest" />
+      <option name="METHOD_NAME" value="remove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleSetTest.remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="HowAnArrayWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="set" />
+      <option name="MAIN_CLASS_NAME" value="set.SimpleSetTest" />
+      <option name="METHOD_NAME" value="remove(int)" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -165,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LinkedSimpleListTest.testAdd" />
-        <item itemvalue="JUnit.LinkedSimpleListTest.indexOf" />
-        <item itemvalue="JUnit.LinkedSimpleListTest.addMany" />
-        <item itemvalue="JUnit.ArraySimpleListTest.indexOf" />
-        <item itemvalue="JUnit.LinkedSimpleListTest" />
+        <item itemvalue="JUnit.SimpleSetTest" />
+        <item itemvalue="JUnit.SimpleSetTest.remove (1)" />
+        <item itemvalue="JUnit.SimpleSetTest.remove" />
+        <item itemvalue="JUnit.SimpleSetTest.checkUnique" />
+        <item itemvalue="JUnit.SimpleSetTest.indexOf (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +208,9 @@
       <workItem from="1570114310057" duration="2553000" />
       <workItem from="1570126582097" duration="1974000" />
       <workItem from="1570181074559" duration="1408000" />
-      <workItem from="1570604222521" duration="19603000" />
+      <workItem from="1570604222521" duration="20268000" />
+      <workItem from="1570635545166" duration="899000" />
+      <workItem from="1570787388357" duration="9393000" />
     </task>
     <servers />
   </component>
@@ -205,9 +220,36 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -222,6 +264,12 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/HowAnArrayWorks$ItemArrayTest_checkoutofBounds.ic" NAME="ItemArrayTest.checkoutofBounds Coverage Results" MODIFIED="1569933505858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/HowAnArrayWorks$ItemArrayTest_addMany.ic" NAME="ItemArrayTest.addMany Coverage Results" MODIFIED="1569933134796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/HowAnArrayWorks$SimpleSetTest_indexOf__1_.ic" NAME="SimpleSetTest.indexOf (1) Coverage Results" MODIFIED="1570797723992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>set.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/HowAnArrayWorks$SimpleSetTest.ic" NAME="SimpleSetTest Coverage Results" MODIFIED="1570798298256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>set.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/HowAnArrayWorks$ItemArrayTest.ic" NAME="ItemArrayTest Coverage Results" MODIFIED="1569933517327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
